@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mykty\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mykty\\.nuget\\packages"
+    ]
+  }
+}

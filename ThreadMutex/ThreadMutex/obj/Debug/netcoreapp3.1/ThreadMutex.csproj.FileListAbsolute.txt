@@ -1,0 +1,15 @@
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\obj\Debug\netcoreapp3.1\ThreadMutex.csprojAssemblyReference.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\obj\Debug\netcoreapp3.1\ThreadMutex.Form1.resources
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\obj\Debug\netcoreapp3.1\ThreadMutex.csproj.GenerateResource.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\obj\Debug\netcoreapp3.1\ThreadMutex.AssemblyInfoInputs.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\obj\Debug\netcoreapp3.1\ThreadMutex.AssemblyInfo.cs
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\obj\Debug\netcoreapp3.1\ThreadMutex.csproj.CoreCompileInputs.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\bin\Debug\netcoreapp3.1\ThreadMutex.exe
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\bin\Debug\netcoreapp3.1\ThreadMutex.deps.json
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\bin\Debug\netcoreapp3.1\ThreadMutex.runtimeconfig.json
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\bin\Debug\netcoreapp3.1\ThreadMutex.runtimeconfig.dev.json
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\bin\Debug\netcoreapp3.1\ThreadMutex.dll
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\bin\Debug\netcoreapp3.1\ThreadMutex.pdb
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\obj\Debug\netcoreapp3.1\ThreadMutex.dll
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\obj\Debug\netcoreapp3.1\ThreadMutex.pdb
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadMutex\ThreadMutex\obj\Debug\netcoreapp3.1\ThreadMutex.genruntimeconfig.cache

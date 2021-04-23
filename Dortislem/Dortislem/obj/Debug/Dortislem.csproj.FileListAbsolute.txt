@@ -1,0 +1,6 @@
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\Dortislem\Dortislem\bin\Debug\Dortislem.dll
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\Dortislem\Dortislem\bin\Debug\Dortislem.pdb
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\Dortislem\Dortislem\obj\Debug\Dortislem.csprojAssemblyReference.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\Dortislem\Dortislem\obj\Debug\Dortislem.csproj.CoreCompileInputs.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\Dortislem\Dortislem\obj\Debug\Dortislem.dll
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\Dortislem\Dortislem\obj\Debug\Dortislem.pdb

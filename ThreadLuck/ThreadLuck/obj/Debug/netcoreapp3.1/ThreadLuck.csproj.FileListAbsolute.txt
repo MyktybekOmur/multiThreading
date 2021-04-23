@@ -1,0 +1,15 @@
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\bin\Debug\netcoreapp3.1\ThreadLuck.exe
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\bin\Debug\netcoreapp3.1\ThreadLuck.deps.json
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\bin\Debug\netcoreapp3.1\ThreadLuck.runtimeconfig.json
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\bin\Debug\netcoreapp3.1\ThreadLuck.runtimeconfig.dev.json
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\bin\Debug\netcoreapp3.1\ThreadLuck.dll
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\bin\Debug\netcoreapp3.1\ThreadLuck.pdb
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\obj\Debug\netcoreapp3.1\ThreadLuck.csprojAssemblyReference.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\obj\Debug\netcoreapp3.1\ThreadLuck.Form1.resources
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\obj\Debug\netcoreapp3.1\ThreadLuck.csproj.GenerateResource.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\obj\Debug\netcoreapp3.1\ThreadLuck.AssemblyInfoInputs.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\obj\Debug\netcoreapp3.1\ThreadLuck.AssemblyInfo.cs
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\obj\Debug\netcoreapp3.1\ThreadLuck.csproj.CoreCompileInputs.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\obj\Debug\netcoreapp3.1\ThreadLuck.dll
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\obj\Debug\netcoreapp3.1\ThreadLuck.pdb
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\ThreadLuck\ThreadLuck\obj\Debug\netcoreapp3.1\ThreadLuck.genruntimeconfig.cache

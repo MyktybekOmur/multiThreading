@@ -1,0 +1,15 @@
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\obj\Debug\netcoreapp3.1\TreadSemaphore.csprojAssemblyReference.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\obj\Debug\netcoreapp3.1\TreadSemaphore.Form1.resources
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\obj\Debug\netcoreapp3.1\TreadSemaphore.csproj.GenerateResource.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\obj\Debug\netcoreapp3.1\TreadSemaphore.AssemblyInfoInputs.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\obj\Debug\netcoreapp3.1\TreadSemaphore.AssemblyInfo.cs
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\obj\Debug\netcoreapp3.1\TreadSemaphore.csproj.CoreCompileInputs.cache
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\bin\Debug\netcoreapp3.1\TreadSemaphore.exe
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\bin\Debug\netcoreapp3.1\TreadSemaphore.deps.json
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\bin\Debug\netcoreapp3.1\TreadSemaphore.runtimeconfig.json
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\bin\Debug\netcoreapp3.1\TreadSemaphore.runtimeconfig.dev.json
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\bin\Debug\netcoreapp3.1\TreadSemaphore.dll
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\bin\Debug\netcoreapp3.1\TreadSemaphore.pdb
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\obj\Debug\netcoreapp3.1\TreadSemaphore.dll
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\obj\Debug\netcoreapp3.1\TreadSemaphore.pdb
+E:\Uzaktan eytim dersleri\6 donem\ileri programlama diller\Code\TreadSemaphore\TreadSemaphore\obj\Debug\netcoreapp3.1\TreadSemaphore.genruntimeconfig.cache
